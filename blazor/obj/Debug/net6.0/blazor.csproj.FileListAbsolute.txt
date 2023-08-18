@@ -1,0 +1,8 @@
+C:\Users\ferhat\Desktop\razor1\blazor\obj\Debug\net6.0\blazor.csproj.AssemblyReference.cache
+C:\Users\ferhat\Desktop\razor1\blazor\obj\Debug\net6.0\blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhat\Desktop\razor1\blazor\obj\Debug\net6.0\blazor.AssemblyInfoInputs.cache
+C:\Users\ferhat\Desktop\razor1\blazor\obj\Debug\net6.0\blazor.AssemblyInfo.cs
+C:\Users\ferhat\Desktop\razor1\blazor\obj\Debug\net6.0\blazor.csproj.CoreCompileInputs.cache
+C:\Users\ferhat\Desktop\razor1\blazor\obj\Debug\net6.0\blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferhat\Desktop\razor1\blazor\obj\Debug\net6.0\blazor.RazorAssemblyInfo.cache
+C:\Users\ferhat\Desktop\razor1\blazor\obj\Debug\net6.0\blazor.RazorAssemblyInfo.cs

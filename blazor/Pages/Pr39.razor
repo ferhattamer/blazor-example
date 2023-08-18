@@ -1,0 +1,15 @@
+@page "/pr39/pr39"
+@inherist Pr39Base
+@implements IDisposable
+
+<h1> Welcome to page1</h1>
+<br/>
+@AppData.Number
+<br/>
+@AppData.Color
+<br/>
+<input type="text" @bind=@AppData.Number />
+<br/>
+<Icomp/>
+<Dcomp/>
+<a href="/pr39/pr39_2"> Go to Page 2 </a>

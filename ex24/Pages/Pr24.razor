@@ -1,0 +1,13 @@
+@page "/pr24/pr24"
+
+<div>
+    <label>Names:</label>
+    <select @bind="UpdateName" multiple="@(false)">
+        <option value="1">Oktar</option>
+        <option value="2">Han</option>
+        <option value="3">Tağmaç</option>
+        <option value="4">Timur</option>
+    </select>
+</div>
+<div>Name's Value: @indexNames</div>
+<div>tmpName's Value: @tmpNames</div>

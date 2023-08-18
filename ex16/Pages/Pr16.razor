@@ -1,0 +1,9 @@
+@page "/pr16/pr16"
+
+<div>
+male<input type="checkbox" @onchange="@(eventArgs=> Agree("male", eventArgs.Value))"/>
+<br/>
+female<input type="checkbox" @onchange="@(eventArgs=> Agree("female", eventArgs.Value))"/>
+</div>
+<h3>@PrintFemale</h3>
+<h3>@PrintMale</h3>

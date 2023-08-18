@@ -1,0 +1,8 @@
+@page "/pr19/pr19"
+
+<h3>@Msg1</h3>
+<h3>@Msg2</h3>
+<div @onclick="@(()=>Msg1="Hello Timur")">
+Show Message:
+<button @onclick="@(()=>Msg2="Hello Oktar")" @onclick:stopPropagation="true">Show Message</button>
+</div>

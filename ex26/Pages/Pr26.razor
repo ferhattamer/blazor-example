@@ -1,0 +1,9 @@
+@page "/pr26/pr26"
+
+<input type="text" @onkeypress="@(e=> KeyBindPressed(e))"/>
+<br/><br/>
+<h3>@keyPress</h3>
+<br/><br/>
+<input type="text" @onkeydown="KeyboardEventHandler" @onkeypress="KeyboardEventHandler" @onkeyup="KeyboardEventHandler"/>
+<h4>@KeyPressed</h4>
+<h4>@Eventinfo</h4>
